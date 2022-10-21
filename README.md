@@ -1,4 +1,4 @@
-Random Quote Machine
+# Random Quote Machine
 
 ## Table of contents
 
