@@ -27,14 +27,14 @@ Project is created with:
 
 ## How to run the project locally
 
-Here are directions on how to fork the thetalesofj/Roman-Numeral-Converter repository:
+Here are directions on how to fork the thetalesofj/random-quote-machine repository:
 `<br>`
 https://docs.github.com/en/get-started/quickstart/fork-a-repo
 
 In the command line:
 
-1. Clone the repo by typing `git clone https://github.com/YOUR-GITHUB-USERNAME/Roman-Numeral-Converter.git`
-2. Then type `cd Roman-Numeral-Converter` to go into the project's directory.
+1. Clone the repo by typing `git clone https://github.com/YOUR-GITHUB-USERNAME/random-quote-machine.git`
+2. Then type `cd random-quote-machine` to go into the project's directory.
 3. Install dependencies with `npm install`
 4. Run the project with `npm start`
 5. Have fun 🚀
